@@ -1,0 +1,91 @@
+﻿  w7.cpp
+C:\Users\hamza\Desktop\OOP345\w7\w7\DataTable.h(105): warning C4018: '<': signed/unsigned mismatch
+  C:\Users\hamza\Desktop\OOP345\w7\w7\DataTable.h(101): note: while compiling class template member function 'void sict::DataTable<float>::displayData(std::ostream &) const'
+  C:\Users\hamza\Desktop\OOP345\w7\w7\w7.cpp(34): note: see reference to function template instantiation 'void sict::DataTable<float>::displayData(std::ostream &) const' being compiled
+  C:\Users\hamza\Desktop\OOP345\w7\w7\w7.cpp(32): note: see reference to class template instantiation 'sict::DataTable<float>' being compiled
+C:\Users\hamza\Desktop\OOP345\w7\w7\DataTable.h(78): warning C4244: '+=': conversion from '_Ty' to 'T', possible loss of data
+          with
+          [
+              _Ty=double
+          ]
+          and
+          [
+              T=float
+          ]
+  C:\Users\hamza\Desktop\OOP345\w7\w7\DataTable.h(76): note: while compiling class template member function 'T sict::DataTable<T>::intercept(void) const'
+          with
+          [
+              T=float
+          ]
+  C:\Users\hamza\Desktop\OOP345\w7\w7\DataTable.h(117): note: see reference to function template instantiation 'T sict::DataTable<T>::intercept(void) const' being compiled
+          with
+          [
+              T=float
+          ]
+C:\Users\hamza\Desktop\OOP345\w7\w7\DataTable.h(65): warning C4244: '+=': conversion from '_Ty' to 'T', possible loss of data
+          with
+          [
+              _Ty=double
+          ]
+          and
+          [
+              T=float
+          ]
+  C:\Users\hamza\Desktop\OOP345\w7\w7\DataTable.h(53): note: while compiling class template member function 'T sict::DataTable<T>::slope(void) const'
+          with
+          [
+              T=float
+          ]
+  C:\Users\hamza\Desktop\OOP345\w7\w7\DataTable.h(116): note: see reference to function template instantiation 'T sict::DataTable<T>::slope(void) const' being compiled
+          with
+          [
+              T=float
+          ]
+C:\Users\hamza\Desktop\OOP345\w7\w7\DataTable.h(67): warning C4244: '+=': conversion from '_Ty' to 'T', possible loss of data
+          with
+          [
+              _Ty=double
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\hamza\Desktop\OOP345\w7\w7\DataTable.h(36): warning C4244: '+=': conversion from '_Ty' to 'T', possible loss of data
+          with
+          [
+              _Ty=double
+          ]
+          and
+          [
+              T=float
+          ]
+  C:\Users\hamza\Desktop\OOP345\w7\w7\DataTable.h(27): note: while compiling class template member function 'T sict::DataTable<T>::sigma(void) const'
+          with
+          [
+              T=float
+          ]
+  C:\Users\hamza\Desktop\OOP345\w7\w7\DataTable.h(114): note: see reference to function template instantiation 'T sict::DataTable<T>::sigma(void) const' being compiled
+          with
+          [
+              T=float
+          ]
+C:\Users\hamza\Desktop\OOP345\w7\w7\DataTable.h(23): warning C4244: '+=': conversion from '_Ty' to 'T', possible loss of data
+          with
+          [
+              _Ty=double
+          ]
+          and
+          [
+              T=float
+          ]
+  C:\Users\hamza\Desktop\OOP345\w7\w7\DataTable.h(21): note: while compiling class template member function 'T sict::DataTable<T>::mean(void) const'
+          with
+          [
+              T=float
+          ]
+  C:\Users\hamza\Desktop\OOP345\w7\w7\DataTable.h(113): note: see reference to function template instantiation 'T sict::DataTable<T>::mean(void) const' being compiled
+          with
+          [
+              T=float
+          ]
+  w7.vcxproj -> C:\Users\hamza\Desktop\OOP345\w7\Debug\w7.exe
