@@ -1,0 +1,5 @@
+1. Advatages that we have for using smart pointer syntax is that it becomes easier to 
+prevent memory leaks and also gives us safe exception handling.
+
+2. When working with raw pointer, we had to delete the temp pointers to prevent memory leak.
+But for the smart pointer, the pointer manages its own deallocation.
