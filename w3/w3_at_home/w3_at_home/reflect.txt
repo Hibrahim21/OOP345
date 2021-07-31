@@ -1,0 +1,3 @@
+1.The reason for specializing the sum() member function is that instead of adding, it ensures that the strings will concatenated well.
+2. Due to the reason that parameter could either be a string or an integer, we specialize is to have safe empty state for the initial values.
+3. We define the class variable outside the class because we are avoiding the one definition rule.
